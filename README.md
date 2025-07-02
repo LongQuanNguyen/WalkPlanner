@@ -1,6 +1,6 @@
 # WalkPlanner
 
-A web application for optimizing walking routes on custom maps. Upload any map image, draw your routes, and find the most efficient path to cover all areas using advanced graph algorithms.
+A web application for optimizing walking routes on custom maps. Upload any map image, draw routes, and find the most efficient path to cover all areas using graph algorithm.
 
 
 ## Technical Stack
