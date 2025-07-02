@@ -1,9 +1,14 @@
-# WalkPlanner
+# WalkPlanner 🚶‍♂️
 
-A web application for optimizing walking routes on custom maps. Upload any map image, draw routes, and find the most efficient path to cover all areas using graph algorithm.
+A modern web application for optimizing walking routes on custom maps. Upload any map image, draw routes, and find the most efficient path to cover all areas using advanced graph algorithms.
+
+## 🌐 Live Demo
+
+**[Try WalkPlanner Live](https://LongQuanNguyen.github.io/WalkPlanner/)**
 
 
-## Technical Stack
+
+## 🛠️ Technical Stack
 
 - **Frontend**: React 18 + TypeScript + Vite
 - **Styling**: Tailwind CSS
@@ -57,8 +62,7 @@ The app implements a solution to the **Chinese Postman Problem** for edge covera
 - **Method**: Exhaustive search for smaller graphs (≤8 routes), smart sampling for larger ones
 - **Optimization**: Tests multiple starting points and edge traversal orders
 - **Performance**: Limited to 12 routes to ensure reasonable computation time
-- **Strategies**: Shortest-first, longest-first, and random sampling approaches
 
-## License
+## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
